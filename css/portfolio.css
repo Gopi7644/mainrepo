@@ -1,0 +1,22 @@
+h1 {
+  color: orange;
+  text-align: left;
+}
+button {
+  color: blue;
+  background-color: green;
+}
+body {
+  background-color: rgb(121, 155, 223);
+}
+#heading {
+  background-image: url(image/bca.png);
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 30%;
+  padding: 50px;
+  text-align: center;
+  box-shadow: rgba(50, 19, 19, 0.421) 0px 0px 6px;
+}
