@@ -12,11 +12,17 @@ body {
 #heading {
   background-image: url(image/bca.png);
   background-size: cover;
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 200px;
   border-radius: 10px;
   margin-left: 30%;
+  position: fixed;
+  top: 0;
+  right: 10px;
   padding: 50px;
   text-align: center;
   box-shadow: rgba(50, 19, 19, 0.421) 0px 0px 6px;
+}
+#heading marquee {
+  padding-bottom: 40px;
 }
