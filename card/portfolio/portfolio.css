@@ -8,20 +8,23 @@ button {
 }
 body {
   background-color: rgb(121, 155, 223);
+  padding-bottom: 50px;
 }
 #heading {
   background-image: url(image/bca.png);
   background-size: cover;
   height: 250px;
-  width: 200px;
+  width: 300px;
   border-radius: 10px;
-  margin-left: 30%;
   position: fixed;
   top: 0;
   right: 10px;
   padding: 50px;
   text-align: center;
   box-shadow: rgba(50, 19, 19, 0.421) 0px 0px 6px;
+}
+.phone {
+  text-decoration: none;
 }
 #heading marquee {
   padding-bottom: 40px;
